@@ -11,4 +11,4 @@ Youtube API
 * Jupyter Notebook
 
 ## Result
-Result of the analysis can be found in the Jupyter Notebook, along with the Python code
+Result of the analysis can be found in the Jupyter Notebook, along with the Python code.
