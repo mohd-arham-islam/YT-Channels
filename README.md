@@ -11,4 +11,4 @@ Youtube API
 * Jupyter Notebook
 
 ## Result
-Result of the analysis can be found in the Jupyter Notebook, along with the visualizations created using Seaborn.
+Result of the analysis can be found in the Jupyter Notebook, along with the Python code
