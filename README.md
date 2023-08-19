@@ -34,4 +34,6 @@ The data offers valuable insights into content creation and its impact on YouTub
 ## Part Two of the Project
 The in-depth recommendations for aspiring content creators will be presented in Part Two of this project, where we delve into a detailed analysis of MrBeast's channel. MrBeast's extraordinary success, characterized by an immense number of subscribers and views, made it appropriate to keep the focus separate. This separation ensures that the analysis of other channels, though impressive, is not overshadowed by MrBeast's exceptional statistics.
 
-For a comprehensive exploration of effective strategies and valuable insights on channel growth, we invite you to refer to this [repository]([url](https://github.com/mohd-arham-islam/YT-MrBeast)). In this section, we'll closely examine MrBeast's approach and distill actionable lessons for content creators aiming to achieve similar success.
+For a comprehensive exploration of effective strategies and valuable insights on channel growth, I invite you to refer to the following link:
+- [https://github.com/mohd-arham-islam/YT-MrBeast](https://github.com/mohd-arham-islam/YT-MrBeast)
+
