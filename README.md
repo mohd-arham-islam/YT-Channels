@@ -3,7 +3,7 @@
 This project utilizes the YouTube API to gather essential data such as the **Number of Videos**, **Total Subscribers**, and **Total Views** for four prominent YouTube channels: **Veritasium**, **Network Chuck**, **Canadian Lad**, and **Mark Rober**. The goal is to provide insights into the performance and content strategies of these channels by visualizing the data using the Seaborn library.
 
 ## Data Gathering
-To obtain the necessary data, I employed the **Google Client API** and made requests to the YouTube API. This allowed me to retrieve crucial metrics for the selected YouTube channels.
+To obtain the necessary data, I employed the **Google Client API** and made requests to the **YouTube API**. This allowed me to retrieve crucial metrics for the selected YouTube channels.
 
 ## Key Findings
 ### **Subscribers**
